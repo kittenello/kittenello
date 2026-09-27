@@ -5,8 +5,8 @@
 <h1>kittenello</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=42&amp;lines=experienced+coder;Python+%C2%B7+JavaScript+%C2%B7+Swift;always+building+something+new" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=42&amp;lines=experienced+coder;Python+%C2%B7+JavaScript+%C2%B7+Swift;always+building+something+new" alt="experienced coder · Python, JavaScript, Swift · always building something new" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=42&amp;lines=experienced+coder;Python+%C2%B7+JavaScript+%C2%B7+Swift+%C2%B7+Java+%C2%B7+Kotlin;always+building+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=42&amp;lines=experienced+coder;Python+%C2%B7+JavaScript+%C2%B7+Swift+%C2%B7+Java+%C2%B7+Kotlin;always+building+something+new" alt="experienced coder · Python, JavaScript, Swift, Java, Kotlin · always building something new" />
 </picture>
 
 <br><br>
@@ -25,6 +25,10 @@
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
 
 <h3>02 / tools</h3>
 
@@ -33,6 +37,8 @@
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
 
 <br><br>
 
