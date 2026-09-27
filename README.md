@@ -59,8 +59,8 @@
 <h3>04 / my contribution snake</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittenello/kittenello/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/kittenello/kittenello/output/snake.svg" width="100%" alt="Animated snake eating kittenello's GitHub contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittenello/kittenello/refs/heads/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kittenello/kittenello/refs/heads/output/snake.svg" width="100%" alt="Animated snake eating kittenello's GitHub contributions" />
 </picture>
 
 <br><br>
