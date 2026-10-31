@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/kittenello/Donutgram"><img src="assets/donutgram-banner.svg" width="100%" alt="donutgram" /></a>
-
 <h1>kittenello</h1>
 
 <picture>
