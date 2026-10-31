@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>hello, world · welcome to my github</sub>
+<a href="https://github.com/kittenello/Donutgram"><img src="assets/donutgram-banner.svg" width="100%" alt="donutgram" /></a>
 
 <h1>kittenello</h1>
 
@@ -69,8 +69,5 @@
   <img src="https://raw.githubusercontent.com/kittenello/kittenello/refs/heads/output/snake.svg" width="100%" alt="Animated snake eating kittenello's GitHub contributions" />
 </picture>
 
-<br><br>
-
-<sub>thanks for stopping by · <a href="https://github.com/kittenello?tab=repositories">explore my repositories ↗</a></sub>
 
 </div>

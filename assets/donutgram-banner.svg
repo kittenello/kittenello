@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="donutgram">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17121e"/><stop offset="1" stop-color="#272039"/></linearGradient>
+    <linearGradient id="icing" x2="1" y2="1"><stop stop-color="#ffb9d9"/><stop offset="1" stop-color="#e873b3"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d779bb" stop-opacity=".2"/><stop offset="1" stop-color="#d779bb" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <ellipse cx="240" cy="150" rx="300" ry="240" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+  <g transform="translate(210 150)">
+    <circle r="78" fill="#080711" opacity=".3" transform="translate(0 9)"/>
+    <path d="M78 0a78 78 0 1 1-156 0 78 78 0 1 1 156 0ZM29 0a29 29 0 1 0-58 0 29 29 0 1 0 58 0Z" fill="#c88b63" fill-rule="evenodd"/>
+    <path d="M74-7C77 17 65 23 59 42S36 56 21 65-3 58-23 65-48 47-61 34-62 8-73-8-57-36-44-54-20-58 0-68 24-55 43-55 56-35 67-24 74-17 74-7ZM29 0a29 29 0 1 0-58 0 29 29 0 1 0 58 0Z" fill="url(#icing)" fill-rule="evenodd"/>
+    <g stroke-width="6" stroke-linecap="round">
+      <path d="m-42-34 8 6m54-21 3 10m21 43-8 7m-55 11-10 4" stroke="#fff4fb"/>
+      <path d="m-52 8 8-2m40-59 8 5m21 85 5 8" stroke="#b6a5ff"/>
+      <path d="m-27 47 7 3m67-57 6 1" stroke="#fbdb9b"/>
+    </g>
+  </g>
+  <text x="345" y="168" fill="#fff3fa" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">donutgram</text>
+  <rect x="350" y="195" width="55" height="4" rx="2" fill="#ee94c2"/>
+  <g fill="#e8adcf" opacity=".35">
+    <circle cx="1020" cy="77" r="4"/><circle cx="1085" cy="212" r="3"/>
+    <path d="M1055 117v18m-9-9h18" stroke="#e8adcf" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
